@@ -5,7 +5,7 @@ The Win8To7 Transformation Pack Backend project is the open source installer bac
 
 With its extendability that unrivals most other transformation pack backends, and its freedom for using any design you'd like, Win8To7 Transformation Pack Backend might be the suitable Backend for your next transformation pack for Windows.
 
-To begin making your own Transformation Pack with the Win8To7 Transformation Pack Backend, check out the Wiki for instructions on creating your own transformation pack with this Backend: https://github.com/dominichayesferen/Win8To7-TP-Backend/wiki
+To begin making your own Transformation Pack with the Win8To7 Transformation Pack Backend, check out the Wiki for instructions on creating your own transformation pack with this Backend: https://github.com/ImSwordQueen/Win8To7-TP-Backend/wiki
 
 Note that in this version of it, once Supplementary Executables are replaced with their proper executables, its transformation end-result looks like this without any further modifications:
 
